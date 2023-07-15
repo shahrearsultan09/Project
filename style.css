@@ -1,0 +1,13 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(253, 253, 253);
+}
+
+ul li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 17px;
+}
